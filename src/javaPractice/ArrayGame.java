@@ -2,6 +2,10 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+ Question URL
+ https://www.hackerrank.com/challenges/java-1d-array/problem
+ Please Improve this code
+ 
  */
 package javaPractice;
 
